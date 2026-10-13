@@ -1,0 +1,7 @@
+"Histogram","PWDR synthetic validation"
+"Instparm: Type","PXC"
+"Instparm: Lam",1.5406
+"x","y_obs","weight","y_calc","y_bkg","Q"
+10,20,999,18,2,0.711
+11,40,888,35,3,0.782
+12,10,777,9,1,0.853

@@ -1,0 +1,3 @@
+numpy
+matplotlib
+xraydb>=4.5.8
